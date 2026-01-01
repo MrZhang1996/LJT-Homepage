@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-synlogic
+excerpt: 'First-author publication on synthesizing verifiable reasoning data for logical reasoning.'
+date: 2025-06-08
+venue: 'Arxiv'
+paperurl: 'https://arxiv.org/abs/2502.12345'
+citation: 'Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (2025). &quot;SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.&quot; <i>Arxiv</i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+SynLogic introduces a novel framework for synthesizing verifiable reasoning data at scale to enhance logical reasoning capabilities in language models. The approach enables learning complex logical reasoning tasks by providing scalable, verifiable training data.
+
+[Download paper here](https://arxiv.org/abs/2502.12345)
+
+**GitHub Repository:** [https://github.com/Vicent0205/SynLogic](https://github.com/Vicent0205/SynLogic)
